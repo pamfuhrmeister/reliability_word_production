@@ -1,0 +1,151 @@
+Participant_ID,File_Name,Session,List,Type_Trial,Trial_Nbr,Target,RT,Response_Trial,Comment,Date_Correction,Assessor_Name,Processed
+5fe39,5fe39_session2_listb_naming_trial001_stapler.wav,2,b,naming,1,stapler,639,correct,NA,Apr 25 2023 15:24:14,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial002_cannon.wav,2,b,naming,2,cannon,860,correct,NA,Apr 25 2023 15:24:23,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial003_shirt.wav,2,b,naming,3,shirt,751,correct,NA,Apr 25 2023 15:24:30,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial004_chain.wav,2,b,naming,4,chain,785,correct,NA,Apr 25 2023 15:24:38,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial005_torch.wav,2,b,naming,5,torch,785,correct,NA,Apr 25 2023 15:24:46,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial006_coconut.wav,2,b,naming,6,coconut,653,correct,NA,Apr 25 2023 15:24:57,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial007_mirror.wav,2,b,naming,7,mirror,635,correct,NA,Apr 25 2023 15:25:05,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial008_butcher.wav,2,b,naming,8,butcher,894,correct,NA,Apr 25 2023 15:25:17,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial009_foot.wav,2,b,naming,9,foot,1194,correct,NA,Apr 25 2023 15:25:26,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial010_honey.wav,2,b,naming,10,honey,680,correct,NA,Apr 25 2023 15:25:35,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial011_greenhouse.wav,2,b,naming,11,greenhouse,1753,correct,NA,Apr 25 2023 15:25:50,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial012_beard.wav,2,b,naming,12,beard,690,correct,NA,Apr 25 2023 15:26:01,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial013_lab.wav,2,b,naming,13,lab,-1,wrong_word,NA,Apr 25 2023 15:26:10,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial014_swimming.wav,2,b,naming,14,swimming,888,correct,NA,Apr 25 2023 15:26:17,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial015_knee.wav,2,b,naming,15,knee,837,correct,NA,Apr 25 2023 15:26:29,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial016_balloon.wav,2,b,naming,16,balloon,704,correct,NA,Apr 25 2023 15:26:40,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial017_lion.wav,2,b,naming,17,lion,738,correct,NA,Apr 25 2023 15:26:55,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial018_sheep.wav,2,b,naming,18,sheep,700,correct,NA,Apr 25 2023 15:27:05,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial019_nurse.wav,2,b,naming,19,nurse,1014,correct,NA,Apr 25 2023 15:27:19,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial020_mask.wav,2,b,naming,20,mask,1170,correct,NA,Apr 25 2023 15:27:27,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial021_volcano.wav,2,b,naming,21,volcano,905,correct,NA,Apr 25 2023 15:27:40,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial022_desert.wav,2,b,naming,22,desert,1402,correct,NA,Apr 25 2023 15:27:47,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial023_girl.wav,2,b,naming,23,girl,772,correct,NA,Apr 25 2023 15:27:56,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial024_strawberry.wav,2,b,naming,24,strawberry,615,correct,NA,Apr 25 2023 15:28:04,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial025_scorpion.wav,2,b,naming,25,scorpion,659,correct,NA,Apr 25 2023 15:28:12,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial026_pizza.wav,2,b,naming,26,pizza,727,correct,NA,Apr 25 2023 15:28:23,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial027_calendar.wav,2,b,naming,27,calendar,-1,disfluency,NA,Apr 25 2023 15:28:31,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial028_cowboy.wav,2,b,naming,28,cowboy,2036,correct,NA,Apr 25 2023 15:28:39,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial029_fruit.wav,2,b,naming,29,fruit,741,correct,NA,Apr 25 2023 15:29:29,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial030_roof.wav,2,b,naming,30,roof,823,correct,NA,Apr 25 2023 15:29:36,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial031_keyboard.wav,2,b,naming,31,keyboard,1031,correct,NA,Apr 25 2023 15:33:10,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial032_spoon.wav,2,b,naming,32,spoon,1310,correct,NA,Apr 25 2023 15:33:17,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial033_vein.wav,2,b,naming,33,vein,1573,correct,NA,Apr 25 2023 15:33:23,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial034_parrot.wav,2,b,naming,34,parrot,1821,correct,NA,Apr 25 2023 15:33:30,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial035_baby.wav,2,b,naming,35,baby,-1,no_resp,NA,Apr 25 2023 15:33:37,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial036_cloud.wav,2,b,naming,36,cloud,727,correct,NA,Apr 25 2023 15:33:47,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial037_car.wav,2,b,naming,37,car,748,correct,NA,Apr 25 2023 15:33:54,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial038_bat.wav,2,b,naming,38,bat,1061,correct,NA,Apr 25 2023 15:34:01,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial039_broccoli.wav,2,b,naming,39,broccoli,1130,correct,NA,Apr 25 2023 15:34:13,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial040_door.wav,2,b,naming,40,door,874,correct,NA,Apr 25 2023 15:34:33,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial041_gun.wav,2,b,naming,41,gun,-1,disfluency,NA,Apr 25 2023 15:34:39,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial042_umbrella.wav,2,b,naming,42,umbrella,1157,correct,NA,Apr 25 2023 15:34:47,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial043_leaf.wav,2,b,naming,43,leaf,-1,disfluency,NA,Apr 25 2023 15:34:55,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial044_asparagus.wav,2,b,naming,44,asparagus,813,uncertain,not sure if it's 'asparagus' or 'uh... sparagus',Apr 25 2023 15:35:29,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial045_fire.wav,2,b,naming,45,fire,-1,disfluency,NA,Apr 25 2023 15:35:37,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial046_ring.wav,2,b,naming,46,ring,833,correct,NA,Apr 25 2023 15:35:44,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial047_tank.wav,2,b,naming,47,tank,1467,correct,NA,Apr 25 2023 15:35:54,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial048_road.wav,2,b,naming,48,road,1423,correct,NA,Apr 25 2023 15:36:07,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial049_elephant.wav,2,b,naming,49,elephant,-1,disfluency,NA,Apr 25 2023 15:36:15,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial050_guitar.wav,2,b,naming,50,guitar,922,correct,NA,Apr 25 2023 15:36:23,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial051_face.wav,2,b,naming,51,face,986,correct,NA,Apr 25 2023 15:36:34,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial052_skeleton.wav,2,b,naming,52,skeleton,1205,correct,NA,Apr 25 2023 15:36:41,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial053_snail.wav,2,b,naming,53,snail,1072,correct,NA,Apr 25 2023 15:36:49,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial054_trumpet.wav,2,b,naming,54,trumpet,1048,correct,NA,Apr 25 2023 15:36:57,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial055_belt.wav,2,b,naming,55,belt,1866,correct,NA,Apr 25 2023 15:37:03,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial056_nose.wav,2,b,naming,56,nose,2503,correct,ending cut off,Apr 25 2023 15:37:15,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial057_broom.wav,2,b,naming,57,broom,2254,correct,NA,Apr 25 2023 15:37:30,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial058_feather.wav,2,b,naming,58,feather,2373,correct,NA,Apr 25 2023 15:37:36,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial059_bedroom.wav,2,b,naming,59,bedroom,-1,disfluency,NA,Apr 25 2023 15:37:43,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial060_devil.wav,2,b,naming,60,devil,1596,correct,NA,Apr 25 2023 15:37:55,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial061_camera.wav,2,b,naming,61,camera,-1,no_resp,NA,Apr 25 2023 15:38:01,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial062_glass.wav,2,b,naming,62,glass,-1,disfluency,NA,Apr 25 2023 15:38:08,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial063_waiter.wav,2,b,naming,63,waiter,1078,uncertain,onset possibly prolonged?,Apr 25 2023 15:38:25,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial064_watch.wav,2,b,naming,64,watch,-1,disfluency,NA,Apr 25 2023 15:38:30,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial065_telephone.wav,2,b,naming,65,telephone,-1,disfluency,NA,Apr 25 2023 15:38:35,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial066_glasses.wav,2,b,naming,66,glasses,-1,uncertain,starts with previous word,Apr 25 2023 15:38:49,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial067_chair.wav,2,b,naming,67,chair,860,correct,NA,Apr 25 2023 15:39:02,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial068_egg.wav,2,b,naming,68,egg,1545,correct,NA,Apr 25 2023 15:39:09,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial069_sink.wav,2,b,naming,69,sink,1072,correct,NA,Apr 25 2023 15:39:35,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial070_skateboard.wav,2,b,naming,70,skateboard,1164,correct,NA,Apr 25 2023 15:39:42,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial071_choir.wav,2,b,naming,71,choir,932,correct,NA,Apr 25 2023 15:39:53,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial072_frog.wav,2,b,naming,72,frog,1078,correct,NA,Apr 25 2023 15:40:01,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial073_duck.wav,2,b,naming,73,duck,-1,wrong_word,NA,Apr 25 2023 15:40:07,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial074_hedgehog.wav,2,b,naming,74,hedgehog,854,correct,NA,Apr 25 2023 15:40:20,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial075_jar.wav,2,b,naming,75,jar,1245,correct,NA,Apr 25 2023 15:40:26,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial076_penguin.wav,2,b,naming,76,penguin,1341,correct,NA,Apr 26 2023 09:45:04,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial077_lizard.wav,2,b,naming,77,lizard,1583,correct,NA,Apr 26 2023 09:45:21,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial078_dentist.wav,2,b,naming,78,dentist,-1,wrong_word,NA,Apr 26 2023 09:45:26,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial079_shark.wav,2,b,naming,79,shark,-1,wrong_word,NA,Apr 26 2023 09:45:32,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial080_hand.wav,2,b,naming,80,hand,1290,correct,NA,Apr 26 2023 09:45:40,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial081_handle.wav,2,b,naming,81,handle,2401,correct,NA,Apr 26 2023 09:45:46,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial082_dragon.wav,2,b,naming,82,dragon,1341,correct,NA,Apr 26 2023 09:45:56,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial083_scarecrow.wav,2,b,naming,83,scarecrow,-1,no_resp,NA,Apr 26 2023 09:46:03,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial084_parachute.wav,2,b,naming,84,parachute,1317,correct,NA,Apr 26 2023 09:46:14,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial085_wallet.wav,2,b,naming,85,wallet,1334,correct,NA,Apr 26 2023 09:46:21,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial086_bed.wav,2,b,naming,86,bed,-1,no_resp,NA,Apr 26 2023 09:46:29,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial087_maze.wav,2,b,naming,87,maze,-1,disfluency,NA,Apr 26 2023 09:46:36,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial088_scarf.wav,2,b,naming,88,scarf,-1,uncertain,"that's a scarf",Apr 26 2023 09:46:53,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial089_lemon.wav,2,b,naming,89,lemon,-1,uncertain,"that's a lemon",Apr 26 2023 09:47:03,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial090_bin.wav,2,b,naming,90,bin,-1,uncertain,"that is a bin",Apr 26 2023 09:47:13,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial091_earring.wav,2,b,naming,91,earring,-1,uncertain,"that's an earring",Apr 26 2023 09:47:26,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial092_heart.wav,2,b,naming,92,heart,1157,correct,NA,Apr 26 2023 09:47:34,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial093_pool.wav,2,b,naming,93,pool,-1,no_resp,NA,Apr 26 2023 09:47:39,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial094_cactus.wav,2,b,naming,94,cactus,-1,disfluency,NA,Apr 26 2023 09:47:45,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial095_house.wav,2,b,naming,95,house,-1,uncertain,"that's a house",Apr 26 2023 09:47:54,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial096_diamond.wav,2,b,naming,96,diamond,-1,uncertain,"that is a diamond",Apr 26 2023 09:48:03,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial097_coffin.wav,2,b,naming,97,coffin,-1,uncertain,"that is a coffin",Apr 26 2023 09:48:18,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial098_harp.wav,2,b,naming,98,harp,-1,no_resp,NA,Apr 26 2023 09:48:25,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial099_thermometer.wav,2,b,naming,99,thermometer,-1,disfluency,NA,Apr 26 2023 09:48:31,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial100_shadow.wav,2,b,naming,100,shadow,-1,no_resp,NA,Apr 26 2023 09:48:36,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial101_burger.wav,2,b,naming,101,burger,-1,no_resp,NA,Apr 26 2023 09:48:42,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial102_brain.wav,2,b,naming,102,brain,-1,no_resp,NA,Apr 26 2023 09:48:47,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial103_banana.wav,2,b,naming,103,banana,1303,correct,NA,Apr 26 2023 09:49:03,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial104_finger.wav,2,b,naming,104,finger,-1,disfluency,NA,Apr 26 2023 09:49:09,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial105_tooth.wav,2,b,naming,105,tooth,2043,correct,NA,Apr 26 2023 09:49:18,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial106_cone.wav,2,b,naming,106,cone,922,correct,NA,Apr 26 2023 09:49:25,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial107_man.wav,2,b,naming,107,man,-1,disfluency,NA,Apr 26 2023 09:49:32,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial108_iron.wav,2,b,naming,108,iron,-1,uncertain,"that is an iron",Apr 26 2023 09:49:41,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial109_ankle.wav,2,b,naming,109,ankle,-1,uncertain,"that is an ankle",Apr 26 2023 09:49:52,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial110_skull.wav,2,b,naming,110,skull,-1,uncertain,"that is a skull",Apr 26 2023 09:50:06,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial111_caravan.wav,2,b,naming,111,caravan,-1,wrong_word,NA,Apr 26 2023 09:50:12,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial112_king.wav,2,b,naming,112,king,-1,disfluency,NA,Apr 26 2023 09:50:17,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial113_well.wav,2,b,naming,113,well,-1,disfluency,NA,Apr 26 2023 09:50:26,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial114_button.wav,2,b,naming,114,button,-1,uncertain,"a button",Apr 26 2023 09:50:35,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial115_eye.wav,2,b,naming,115,eye,1692,correct,NA,Apr 26 2023 09:50:43,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial116_giraffe.wav,2,b,naming,116,giraffe,959,correct,NA,Apr 26 2023 09:50:54,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial117_moustache.wav,2,b,naming,117,moustache,-1,disfluency,NA,Apr 26 2023 09:51:01,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial118_crown.wav,2,b,naming,118,crown,1256,correct,NA,Apr 26 2023 09:51:27,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial119_condom.wav,2,b,naming,119,condom,-1,no_resp,NA,Apr 26 2023 09:51:34,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial120_hair.wav,2,b,naming,120,hair,-1,wrong_word,NA,Apr 26 2023 09:51:41,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial121_dolphin.wav,2,b,naming,121,dolphin,1337,correct,NA,Apr 26 2023 09:51:51,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial122_bible.wav,2,b,naming,122,bible,-1,uncertain,"the Bible",Apr 26 2023 09:52:02,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial123_television.wav,2,b,naming,123,television,-1,wrong_word,NA,Apr 26 2023 09:52:07,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial124_fist.wav,2,b,naming,124,fist,-1,wrong_word,"and starts with previous word (wrong word), and disfluency",Apr 26 2023 09:52:35,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial125_boomerang.wav,2,b,naming,125,boomerang,1300,correct,NA,Apr 26 2023 09:52:44,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial126_calculator.wav,2,b,naming,126,calculator,1004,correct,NA,Apr 26 2023 09:52:54,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial127_cage.wav,2,b,naming,127,cage,959,correct,NA,Apr 26 2023 09:53:05,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial128_pilot.wav,2,b,naming,128,pilot,2390,correct,NA,Apr 26 2023 09:53:15,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial129_pumpkin.wav,2,b,naming,129,pumpkin,-1,disfluency,NA,Apr 26 2023 09:53:23,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial130_back.wav,2,b,naming,130,back,1170,correct,NA,Apr 26 2023 09:54:57,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial131_ambulance.wav,2,b,naming,131,ambulance,1109,correct,NA,Apr 26 2023 09:54:58,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial132_witch.wav,2,b,naming,132,witch,-1,correct,NA,Apr 26 2023 09:54:58,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial133_cigarette.wav,2,b,naming,133,cigarette,-1,correct,NA,Apr 26 2023 09:54:59,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial134_needle.wav,2,b,naming,134,needle,-1,correct,NA,Apr 26 2023 09:54:59,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial135_nun.wav,2,b,naming,135,nun,1310,correct,NA,Apr 26 2023 09:55:01,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial136_screwdriver.wav,2,b,naming,136,screwdriver,-1,correct,NA,Apr 26 2023 09:55:01,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial137_dog.wav,2,b,naming,137,dog,1327,correct,NA,Apr 26 2023 09:55:03,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial138_sock.wav,2,b,naming,138,sock,1457,correct,NA,Apr 26 2023 09:55:11,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial139_farm.wav,2,b,naming,139,farm,1327,correct,NA,Apr 26 2023 09:55:22,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial140_bra.wav,2,b,naming,140,bra,1089,correct,NA,Apr 26 2023 09:55:34,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial141_apron.wav,2,b,naming,141,apron,-1,disfluency,NA,Apr 26 2023 09:55:44,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial142_fan.wav,2,b,naming,142,fan,826,correct,NA,Apr 26 2023 09:56:12,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial143_pirate.wav,2,b,naming,143,pirate,980,correct,NA,Apr 26 2023 09:56:18,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial144_dinosaur.wav,2,b,naming,144,dinosaur,956,correct,NA,Apr 26 2023 09:56:30,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial145_printer.wav,2,b,naming,145,printer,-1,disfluency,NA,Apr 26 2023 09:56:37,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial146_football.wav,2,b,naming,146,football,-1,disfluency,NA,Apr 26 2023 09:56:42,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial147_spider.wav,2,b,naming,147,spider,-1,wrong_word,NA,Apr 26 2023 09:56:47,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial148_microphone.wav,2,b,naming,148,microphone,-1,disfluency,NA,Apr 26 2023 09:56:52,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial149_coffee.wav,2,b,naming,149,coffee,-1,wrong_word,and disfluency,Apr 26 2023 09:57:03,Agnieszka,1
+5fe39,5fe39_session2_listb_naming_trial150_airport.wav,2,b,naming,150,airport,1596,correct,NA,Apr 26 2023 09:57:09,Agnieszka,1
